@@ -30,6 +30,11 @@ p {
   font-size: 21px;
 }
 
+video {
+  padding: 10px;
+  margin: 10px;
+}
+
 #phone {
   margin: 10px;
   padding: 10px;
